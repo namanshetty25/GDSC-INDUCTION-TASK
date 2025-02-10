@@ -1,0 +1,7 @@
+streamlit
+SpeechRecognition
+gtts
+langchain_community
+langchain_ollama
+langchain
+faiss-cpu
