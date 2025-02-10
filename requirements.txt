@@ -1,7 +1,7 @@
 streamlit
 SpeechRecognition
-gtts
-langchain_community
-langchain_ollama
+gTTS
 langchain
+langchain-ollama
 faiss-cpu
+pdfplumber
