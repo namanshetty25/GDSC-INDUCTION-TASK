@@ -30,7 +30,7 @@ Project Structure
 
 │── 📁 Data/               # Folder containing PDFs to be processed
 
-│── 📄 chatbot.py              # Main Streamlit app
+│── 📄 MetaMind.py              # Main Streamlit app
 
 │── 📄 README.md           # Project documentation
 
