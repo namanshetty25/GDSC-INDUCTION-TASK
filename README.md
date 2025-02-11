@@ -27,6 +27,7 @@ pip install -r requirements.txt
 Project Structure
 
 📁 PDF-Voice-Chatbot
+
 │── 📁 Data/               # Folder containing PDFs to be processed
 
 │── 📄 chatbot.py              # Main Streamlit app
